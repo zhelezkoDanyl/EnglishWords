@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Engl2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Engl2.dbo.TestAllWords' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="TestAllWords">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Engword" />
+      <PropertyRef Name="RuWord" />
+      <PropertyRef Name="numberPart" />
+      <PropertyRef Name="numberKind" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Engword" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="RuWord" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="SinonimRu" Type="varchar" MaxLength="100" />
+    <Property Name="SinonimEn" Type="varchar" MaxLength="100" />
+    <Property Name="PastSimple" Type="varchar" MaxLength="20" />
+    <Property Name="PastPart" Type="varchar" MaxLength="20" />
+    <Property Name="numberPart" Type="int" Nullable="false" />
+    <Property Name="numberKind" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Engl2ModelStoreContainer">
+    <EntitySet Name="TestAllWords" EntityType="Self.TestAllWords" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [TestAllWords].[Id] AS [Id], 
+    [TestAllWords].[Engword] AS [Engword], 
+    [TestAllWords].[RuWord] AS [RuWord], 
+    [TestAllWords].[SinonimRu] AS [SinonimRu], 
+    [TestAllWords].[SinonimEn] AS [SinonimEn], 
+    [TestAllWords].[PastSimple] AS [PastSimple], 
+    [TestAllWords].[PastPart] AS [PastPart], 
+    [TestAllWords].[numberPart] AS [numberPart], 
+    [TestAllWords].[numberKind] AS [numberKind]
+    FROM [dbo].[TestAllWords] AS [TestAllWords]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

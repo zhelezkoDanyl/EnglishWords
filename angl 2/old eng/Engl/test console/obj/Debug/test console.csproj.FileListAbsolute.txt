@@ -1,0 +1,80 @@
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\test console.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\test console.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\test console.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\obj\Debug\test console.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\obj\Debug\test console.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\test console.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\test console.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\test console.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\bin\Debug\EntityFramework.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\obj\Debug\test console.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\test console\obj\Debug\test console.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\test console.exe.config
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\test console.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\test console.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\EntityFramework.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\bin\Debug\EntityFramework.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\obj\Debug\test console.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\test console\obj\Debug\test console.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\test console\bin\Debug\EntityFramework.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\test console.exe.config
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\test console.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\test console.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\EntityFramework.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\bin\Debug\EntityFramework.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\obj\Debug\test console.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\test console\obj\Debug\test console.pdb
+F:\c\old eng\Engl\test console\bin\Debug\test console.exe.config
+F:\c\old eng\Engl\test console\bin\Debug\test console.exe
+F:\c\old eng\Engl\test console\bin\Debug\test console.pdb
+F:\c\old eng\Engl\test console\bin\Debug\Engl.exe
+F:\c\old eng\Engl\test console\bin\Debug\EntityFramework.dll
+F:\c\old eng\Engl\test console\bin\Debug\Engl.pdb
+F:\c\old eng\Engl\test console\bin\Debug\EntityFramework.xml
+F:\c\old eng\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+F:\c\old eng\Engl\test console\obj\Debug\test console.exe
+F:\c\old eng\Engl\test console\obj\Debug\test console.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\test console.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\test console.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\test console.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\bin\Debug\EntityFramework.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\obj\Debug\test console.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\test console\obj\Debug\test console.pdb
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\test console.exe.config
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\obj\Debug\test console.exe
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\obj\Debug\test console.pdb
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\test console.exe
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\test console.pdb
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\EntityFramework.dll
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\bin\Debug\EntityFramework.xml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\test console.exe.config
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\test console.exe
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\test console.pdb
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\EntityFramework.dll
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\bin\Debug\EntityFramework.xml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\obj\Debug\test console.csprojResolveAssemblyReference.cache
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\obj\Debug\test console.exe
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\test console\obj\Debug\test console.pdb

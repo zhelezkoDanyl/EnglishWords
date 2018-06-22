@@ -1,0 +1,13 @@
+noun - имя.сущ.
+
+adjective - прилагательное(какой какая)
+adverb - наречие ( как куда где когда )
+pronoun - местоимение
+preposition - предлог(в на над под)
+conjunction - союз
+verb - глагол 
+
+
+
+
+table стол noun none 

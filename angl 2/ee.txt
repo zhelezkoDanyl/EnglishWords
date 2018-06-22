@@ -1,0 +1,73 @@
+C#, Разговоры с компом или System.Speech
+.NET
+Из песочницы
+Недавно я, программист на C#, нашёл в своей панели управления такую фичу, как Распознование речи. Сменил язык на английский, включил, и всю ночь разговаривал с компом. На утро решил написать калькулятор, разумеется говорящий. Потыкав в .Net'овские библиотеки нашёл System.Speech. Звучало многообещающе.
+
+В библиотеке было 3 namespace: image
+Для распознавания и синтеза речи, и ещё для чего-то неважного.
+
+Synthesis
+
+Сначала разберёмся с Synthesis, напишем простейший блокнот с кнопкой speak:
+Добавляем на форму textBoxText, и buttonSpeak. В коде подключаем System.Speech.Synthesis, и в форме создаём объект
+
+SpeechSynthesizer ss = new SpeechSynthesizer();
+
+вешаем на кнопку обработчик, в нем код чтения фразы:
+
+ss.Volume = 100;// от 0 до 100
+ss.Rate = 0;//от -10 до 10
+ss.SpeakAsync(textBoxText.Text);
+
+Кстати, во время асинхронного чтения можно менять скорость и громкость. Можно написать просто Speak(), но тогда вся прога повесится на время чтения. Теперь добавим на форму ещё кнопку, saveToWav. Здесь так-же настраиваем грамкость и скорость, но перед Speak() пишем ss.SetOutputToWaveFile(/*путь к файлу*/);
+Теперь самое интересное:
+
+Recognition
+
+Для использования этой фичи нужно иметь Windows 7 / Vista на английском языке
+
+Подключим System.Speech.Recognition, и объявим в форме переменные:
+
+private SpeechRecognitionEngine sr;
+
+теперь скопипастим ещё пару непонятных строк кода в конструктор формы:
+
+sr.SetInputToDefaultAudioDevice();//микрофон
+GrammarBuilder grammarBuilder = new GrammarBuilder();
+grammarBuilder.Append(new Choices("left", "right", "up", "down"));//добавляем используемые фразы
+sr.UnloadAllGrammars();
+sr.LoadGrammar(Grammar(grammarBuilder));//загружаем "грамматику"
+sr.SpeechRecognized += new EventHandler<SpeechRecognizedEventArgs>(SpeechRecognized);//событие речь распознана
+sr.RecognizeAsync(RecognizeMode.Multiple);//начинаем распознование
+
+в событии SpeechRecognized напишем:
+
+MessageBox.Show("Recognized phrase: " + e.Result.Text);
+
+Теперь при произнесении фраз «left», «right», «up», «down», без огромного русского акцента, будет выводится соответствующий месседж.
+Но если произнести с большим акцентом, наша программа распознает несколько вариантов. Для этого есть событие SpeechHypothesized. Добавим его обработчик:
+
+sr.SpeechHypothesized += new EventHandler<SpeechHypothesizedEventArgs>(recognizer_SpeechHypothesized);
+
+В нём тоже выведем месседж:
+
+MessageBox.Show("Hypothesized phrase: " + e.Result.Text);
+
+Теперь наша программа умеет распозновать заданные команды, это уже неплохо, но иногда таких команд много, или например они могут менятся(например «open tab number five»), или мы хотим сделать блокнот с голосовым управлением…
+Вообщем надо создать ещё объект:
+
+private DictationGrammar dictationGrammar;
+
+а в конструкторе:
+
+dictationGrammar = new DictationGrammar();
+sr.LoadGrammar(dictationGrammar);
+
+Теперь наша программа может распознать любой английский текст. Эта функция также доступна для французского, испанского, немецкого, японского и китайского языков. Но на них я к сожалению не говорю(
+
+P.S. Напомню, что нужно сделать английский язык интерфейса, иначе не создастся грамматический словарь!
+Метки:
+.NET
+C
+speech recognition
+speech synthesi

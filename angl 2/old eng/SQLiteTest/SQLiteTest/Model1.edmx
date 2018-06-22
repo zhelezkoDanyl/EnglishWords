@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Engl2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Engl2.dbo.TestAllWords' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="TestAllWords">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Engword" />
+            <PropertyRef Name="RuWord" />
+            <PropertyRef Name="numberPart" />
+            <PropertyRef Name="numberKind" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Engword" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="RuWord" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="SinonimRu" Type="varchar" MaxLength="100" />
+          <Property Name="SinonimEn" Type="varchar" MaxLength="100" />
+          <Property Name="PastSimple" Type="varchar" MaxLength="20" />
+          <Property Name="PastPart" Type="varchar" MaxLength="20" />
+          <Property Name="numberPart" Type="int" Nullable="false" />
+          <Property Name="numberKind" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="Engl2ModelStoreContainer">
+          <EntitySet Name="TestAllWords" EntityType="Self.TestAllWords" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [TestAllWords].[Id] AS [Id], 
+    [TestAllWords].[Engword] AS [Engword], 
+    [TestAllWords].[RuWord] AS [RuWord], 
+    [TestAllWords].[SinonimRu] AS [SinonimRu], 
+    [TestAllWords].[SinonimEn] AS [SinonimEn], 
+    [TestAllWords].[PastSimple] AS [PastSimple], 
+    [TestAllWords].[PastPart] AS [PastPart], 
+    [TestAllWords].[numberPart] AS [numberPart], 
+    [TestAllWords].[numberKind] AS [numberKind]
+    FROM [dbo].[TestAllWords] AS [TestAllWords]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Engl2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="TestAllWords">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Engword" />
+            <PropertyRef Name="RuWord" />
+            <PropertyRef Name="numberPart" />
+            <PropertyRef Name="numberKind" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Engword" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="RuWord" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="SinonimRu" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="SinonimEn" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="PastSimple" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="PastPart" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="numberPart" Type="Int32" Nullable="false" />
+          <Property Name="numberKind" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="Engl2Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="TestAllWords" EntityType="Self.TestAllWords" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Engl2ModelStoreContainer" CdmEntityContainer="Engl2Entities">
+          <EntitySetMapping Name="TestAllWords">
+            <EntityTypeMapping TypeName="Engl2Model.TestAllWords">
+              <MappingFragment StoreEntitySet="TestAllWords">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Engword" ColumnName="Engword" />
+                <ScalarProperty Name="RuWord" ColumnName="RuWord" />
+                <ScalarProperty Name="SinonimRu" ColumnName="SinonimRu" />
+                <ScalarProperty Name="SinonimEn" ColumnName="SinonimEn" />
+                <ScalarProperty Name="PastSimple" ColumnName="PastSimple" />
+                <ScalarProperty Name="PastPart" ColumnName="PastPart" />
+                <ScalarProperty Name="numberPart" ColumnName="numberPart" />
+                <ScalarProperty Name="numberKind" ColumnName="numberKind" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

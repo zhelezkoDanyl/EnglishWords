@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Engl2ModelStoreContainer" CdmEntityContainer="Engl2Entities">
+    <EntitySetMapping Name="TestAllWords">
+      <EntityTypeMapping TypeName="Engl2Model.TestAllWords">
+        <MappingFragment StoreEntitySet="TestAllWords">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Engword" ColumnName="Engword" />
+          <ScalarProperty Name="RuWord" ColumnName="RuWord" />
+          <ScalarProperty Name="SinonimRu" ColumnName="SinonimRu" />
+          <ScalarProperty Name="SinonimEn" ColumnName="SinonimEn" />
+          <ScalarProperty Name="PastSimple" ColumnName="PastSimple" />
+          <ScalarProperty Name="PastPart" ColumnName="PastPart" />
+          <ScalarProperty Name="numberPart" ColumnName="numberPart" />
+          <ScalarProperty Name="numberKind" ColumnName="numberKind" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

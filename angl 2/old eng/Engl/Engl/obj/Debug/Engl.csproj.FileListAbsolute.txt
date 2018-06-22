@@ -1,0 +1,338 @@
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\Engl.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\App.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl.g.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Filter.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Filter.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\Engl.exe.config
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\MainWindow.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\App.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Filter.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Filter.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl.g.resources
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\Properties.Resources.Designer.cs.dll
+G:\англ\Engl\Engl\bin\Debug\Engl.exe.config
+G:\англ\Engl\Engl\obj\Debug\Engl.exe
+G:\англ\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Addwin.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Addwin.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\Engl.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Filter.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\App.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Addwin.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Filter.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl.g.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\222\англ\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\Engl.exe.config
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Filter.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\App.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Addwin.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Filter.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\MainWindow.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl.g.resources
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\ввв\англ\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ2\Engl\Engl\bin\Debug\Engl.exe.config
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ2\Engl\Engl\obj\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ2\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проэкт\англ\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+G:\англ\Engl\Engl\bin\Debug\Engl.exe
+G:\англ\Engl\Engl\bin\Debug\Engl.pdb
+G:\англ\Engl\Engl\bin\Debug\EntityFramework.dll
+G:\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+G:\англ\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+G:\англ\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+G:\англ\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+G:\англ\Engl\Engl\bin\Debug\EntityFramework.xml
+G:\англ\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+G:\англ\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+G:\англ\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+G:\англ\Engl\Engl\obj\Debug\Addwin.g.cs
+G:\англ\Engl\Engl\obj\Debug\Filter.g.cs
+G:\англ\Engl\Engl\obj\Debug\MainWindow.g.cs
+G:\англ\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+G:\англ\Engl\Engl\obj\Debug\App.g.cs
+G:\англ\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+G:\англ\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+G:\англ\Engl\Engl\obj\Debug\Addwin.baml
+G:\англ\Engl\Engl\obj\Debug\Filter.baml
+G:\англ\Engl\Engl\obj\Debug\MainWindow.baml
+G:\англ\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+G:\англ\Engl\Engl\obj\Debug\Engl.g.resources
+G:\англ\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+G:\англ\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+G:\Engl\Engl\bin\Debug\Engl.exe.config
+G:\Engl\Engl\obj\Debug\Engl.exe
+G:\Engl\Engl\obj\Debug\Engl.pdb
+F:\на работу\англ\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+F:\на работу\англ\old eng\Engl\Engl\obj\Debug\Engl.exe
+F:\на работу\англ\old eng\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\Engl.exe
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\Engl.pdb
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\App.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Addwin.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Filter.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+F:\c\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+F:\c\old eng\Engl\Engl\obj\Debug\Engl.exe
+F:\c\old eng\Engl\Engl\obj\Debug\Engl.pdb
+F:\c\old eng\Engl\Engl\bin\Debug\Engl.exe
+F:\c\old eng\Engl\Engl\bin\Debug\Engl.pdb
+F:\c\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+F:\c\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+F:\c\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+F:\c\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+F:\c\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+F:\c\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+F:\c\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+F:\c\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+F:\c\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+F:\c\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+F:\c\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+F:\c\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+F:\c\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+F:\c\old eng\Engl\Engl\obj\Debug\App.g.cs
+F:\c\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\c\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+F:\c\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+F:\c\old eng\Engl\Engl\obj\Debug\Addwin.baml
+F:\c\old eng\Engl\Engl\obj\Debug\Filter.baml
+F:\c\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+F:\c\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+F:\c\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+F:\c\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+F:\c\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\App.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Addwin.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Filter.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
+D:\DOCUMENTI\изучение прорам\3 програмы\ПРОЭКТЫ СВОИ\англ\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.baml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\App.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Addwin.baml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Filter.baml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.baml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+C:\Users\ДОБРЫНЯ\Desktop\англ\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\App.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.baml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Filter.baml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.baml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+C:\Users\ДОБРЫНЯ\Desktop\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+G:\c\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+G:\c\angl 2\old eng\Engl\Engl\obj\Debug\Engl.exe
+G:\c\angl 2\old eng\Engl\Engl\obj\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\App.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Filter.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache

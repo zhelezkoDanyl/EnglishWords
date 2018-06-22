@@ -1,0 +1,41 @@
+1	Noun	1	1	Абстрактные
+2	Noun	1	2	Конкретные
+3	Noun	1	3	Другое
+
+4	Adjec	2	1	Другое
+
+5	Adverb	3	1	Место
+6	Adverb	3	2	Время
+7	Adverb	3	3	Причина
+8	Adverb	3	4	Цель
+9	Adverb	3	5	Способ
+10	Adverb	3	6	Количество
+11	Adverb	3	7	Другое
+
+12	Pronoun	4	1	Личные
+13	Pronoun	4	2	Притяжательные
+14	Pronoun	4	3	Возвратные
+15	Pronoun	4	4	Указательные
+16	Pronoun	4	5	Вопросительные
+
+17	Pronoun	4	6	Другое
+
+18	Preposi 5	1	Абстрактные
+19	Preposi	5	2	Место
+20	Preposi	5	3	Время
+21	Preposi	5	4	Другое
+
+22	Conjunc	6	1	Связные
+23	Conjunc 6	2	Разделительные
+24	Conjunc	6	3	Контраст
+25	Conjunc	6	4	ПричинноСледстинные
+26	Conjunc	6	5	Другое
+
+27	Verb	7	1	Правильные
+28	Verb	7	2	Неправильные
+29	Verb	7	3	Фразовые
+30	Verb	7	4	Другое
+
+31	Numeral	8	1	Парядковые
+32	Numeral	8	2	Количественные
+33	Numeral	8	3	Другое
