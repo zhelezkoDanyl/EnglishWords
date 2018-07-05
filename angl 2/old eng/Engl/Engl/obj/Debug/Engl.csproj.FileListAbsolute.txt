@@ -336,3 +336,34 @@ D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\пр�
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.g.resources
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe.config
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\Engl.pdb
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.dll
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Filter.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\MainWindow.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\App.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.cache
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl_MarkupCompile.lref
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.baml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Filter.baml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.baml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\MainWindow.baml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Verbs\VerbsLern.baml
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.g.resources
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.Properties.Resources.resources
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.exe
+C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.pdb
