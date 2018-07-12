@@ -26,7 +26,7 @@ namespace Engl.MainModel
                 }
                 return ListofFilytr;
             } }
-        // вспомогательный класс для инвормации сколь частей речи подключено ЧЕКБОКСЕ
+        // вспомогательный класс для информации сколь частей речи подключено ЧЕКБОКСЕ
         private  List<int> FilyterOfPard()
         {
             List<int> coun = new List<int>();
@@ -927,9 +927,14 @@ namespace Engl.MainModel
 
             else
             {
-                if(w.Count > 0)
+                w.MistakeCount = +1;
+                w2.MistakeCount = +1;
+                w2.CompleteMistakeCount = +1;
+                w.CompleteMistakeCount = +1;
+                if (w.Count > 0)
                 {
                     w.Count = w.Count - 1;
+                    
                 }
                 else { w.Count = 0; }
                 // усложнения на втором уровне - за ниправильный ответ отнимается звезды в двух словах которе паказано и которое было выбрано!

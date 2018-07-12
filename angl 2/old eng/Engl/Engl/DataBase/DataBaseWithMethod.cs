@@ -84,6 +84,8 @@ namespace Engl.DataBase
             foreach (var words in DataBaseWithMethod.GetListWord)
             {
                 words.Count = 0;
+                words.MistakeCount = 0;
+                words.CompleteMistakeCount = 0;
             }
             CreateClassWords.MyWords.SaveChanges();
         }

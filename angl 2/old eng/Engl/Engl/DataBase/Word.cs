@@ -24,6 +24,9 @@ namespace Engl.DataBase
         public int NumberKind { get; set; }
         public string Tema { get; set; }
         public int Count { get; set; }
+        public int MistakeCount { get; set; }
+        public int CompleteMistakeCount { get; set; }
+
 
 
     }

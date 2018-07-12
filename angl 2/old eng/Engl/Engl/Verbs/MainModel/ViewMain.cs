@@ -230,7 +230,7 @@ namespace Engl.MainModel
             int pf = Method.ProverkaCounWordsForFilyter();
             if (pf ==0)
             {
-                System.Windows.MessageBox.Show("po filytru menyshe 0");
+                System.Windows.MessageBox.Show("По вашему фильтру выбрано 0 слов");
                 Main.word.Content = "Выберете другой фильтр ! ";
             }
             else
