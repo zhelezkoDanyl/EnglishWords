@@ -247,7 +247,7 @@ namespace Engl.Operation
             ViewModel vm = new ViewModel();
           if(  vm.ProverkaVolidate(emp, out TextWhithResult,0))
             {
-                MessageBoxResult result = MessageBox.Show("Добавит в библиотеку следуещее слово ? " + emp.EN + " - " + emp.Ru, "ADD", MessageBoxButton.YesNo);
+                MessageBoxResult result = MessageBox.Show("Добавить в библиотеку следуещее слово ? " + emp.EN + " - " + emp.Ru, "ADD", MessageBoxButton.YesNo);
                 if (result == MessageBoxResult.Yes)
                 {
                     try
