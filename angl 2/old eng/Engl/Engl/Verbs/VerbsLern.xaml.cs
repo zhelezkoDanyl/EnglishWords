@@ -30,6 +30,7 @@ namespace Engl.Verbs
         public event EventHandler clickin;
         
         public event EventHandler Vol;
+        public event EventHandler SpeedSpech;
 
 
         #region cheked uncheced
@@ -69,6 +70,15 @@ namespace Engl.Verbs
             }
             catch { }
             
+        }
+
+        private void sliderVerbSpeed_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            try
+            {
+                SpeedSpech.Invoke(sender, e);
+            }
+            catch { }
         }
     }
 }

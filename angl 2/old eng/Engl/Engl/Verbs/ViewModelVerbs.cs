@@ -8,6 +8,7 @@ namespace Engl.Verbs
 {
     class ViewModelVerbs
     {
+        int s = 0;
         VerbsLern Verblist;
         ModelVerbs MV;
         List<System.Windows.Controls.CheckBox> CheckVerb;
@@ -43,12 +44,18 @@ namespace Engl.Verbs
             Verblist.Selec += Verblist_Selec;
             Verblist.clickin += Verblist_clickin;
             Verblist.Vol += Verblist_Vol;
-          
+            Verblist.SpeedSpech += Verblist_SpeedSpech;
+        }
+
+        private void Verblist_SpeedSpech(object sender, EventArgs e)
+        {
+            synth.Rate = Verblist.Mycontrol.SpeedVoice-10;
         }
 
         private void Verblist_Vol(object sender, EventArgs e)
         {
             synth.Volume = Verblist.Mycontrol.Voice;
+          
         }
 
         private void Verblist_clickin(object sender, EventArgs e)
@@ -58,24 +65,15 @@ namespace Engl.Verbs
 
         private void Verblist_Selec(object sender, EventArgs e)
         {
-            
-
-
-
             synth.SpeakAsyncCancelAll();
            
-
-         
-
             Engl.DataBase.VerbsWord row = Verblist.dataGrid.SelectedItem as Engl.DataBase.VerbsWord;
             Verblist.RuWord.Text = row.Ru;
             Verblist.Form1.Text = row.EnForms1;
             Verblist.form2.Text = row.VerbForms2;
             Verblist.form3.Text = row.VerbForms3;
+
             
-
-         
-
             synth.SpeakAsync(row.EnForms1 + "," + row.VerbForms2 + "," + row.VerbForms3);
         }
            

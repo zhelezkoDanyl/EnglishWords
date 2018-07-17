@@ -325,10 +325,12 @@ namespace Engl.Operation
          static DependencyProperty DataProperty;
          static DependencyProperty DataProperty2;
          static DependencyProperty VoiceProperty;
+        static DependencyProperty SpeedProperty;
         static FrameworkPropertyMetadata metadata = new FrameworkPropertyMetadata(new PropertyChangedCallback(change), new CoerceValueCallback(Corect));
+        static FrameworkPropertyMetadata metadataSpeed = new FrameworkPropertyMetadata(new PropertyChangedCallback(changeSpeed), new CoerceValueCallback(CorectSpeed));
+        int? volume = null;
+        int? speed = null;
 
-         int? volume = null;
-    
         // 2. регистрация свойства зависимостей
         static MyFirstControl()
         {
@@ -336,6 +338,7 @@ namespace Engl.Operation
             // параметр 2: Тип данных свойства.
             // параметр 3: Тип, которому принадлежит это свойство.
            VoiceProperty = DependencyProperty.Register("Voice", typeof(int), typeof(MyFirstControl),metadata);
+            SpeedProperty = DependencyProperty.Register("SpeedVoice", typeof(int), typeof(MyFirstControl), metadataSpeed);
             DataProperty = DependencyProperty.Register("Data", typeof(int), typeof(MyFirstControl));
         
             DataProperty2 = DependencyProperty.Register("chekMyself", typeof(bool), typeof(MyFirstControl));
@@ -344,6 +347,17 @@ namespace Engl.Operation
         // 3. Упаковка свойства зависимостей в традиционное свойство.
         // Методы SetValue и GetValue унаследованы от класса DependencyObject
 
+        public int SpeedVoice
+        {
+            get
+            {
+                return (int)GetValue(SpeedProperty);
+            }
+            set
+            {
+                SetValue(SpeedProperty, value);
+            }
+        }
 
         public int Voice
         {
@@ -400,6 +414,31 @@ namespace Engl.Operation
         static void change (DependencyObject d, DependencyPropertyChangedEventArgs e )
         {
             
+        }
+        static object CorectSpeed(DependencyObject obg, object val)
+        {
+
+            var w = (MyFirstControl)obg;
+            if (w.speed == null)
+            {
+                w.speed = 10;
+                val = w.speed;
+
+            }
+
+            else
+            {
+
+                w.speed = (int)val;
+            }
+
+
+
+            return val;
+        }
+        static void changeSpeed(DependencyObject d, DependencyPropertyChangedEventArgs e)
+        {
+
         }
 
     }

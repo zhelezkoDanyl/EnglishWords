@@ -82,7 +82,7 @@
 
                     </MenuItem>
 
-                    <MenuItem x:Name="operationsword" Header="Edit Words" Click="add_word" Background="#FFB28A35" >
+                    <MenuItem x:Name="operationsword" Header="Dictionary" Click="add_word" Background="#FFB28A35" >
 
 
                         <!--<MenuItem Header="Add Word" />-->
