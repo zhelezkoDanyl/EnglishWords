@@ -318,7 +318,6 @@ D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\пр�
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.xml
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\EntityFramework.SqlServer.xml
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.xml
-D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csprojResolveAssemblyReference.cache
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Addwin.g.cs
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Filter.g.cs
 D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Kateroris\Subjects.g.cs
@@ -367,3 +366,7 @@ C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl
 C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.GenerateResource.Cache
 C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.exe
 C:\Users\ДОБРЫНЯ\Desktop\englGitHub\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.pdb
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\bin\Debug\System.Data.SQLite.dll.config
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csprojAssemblyReference.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.CoreCompileInputs.cache
+D:\2 УЧЕБА\учеба\C#   sharpuroki\ДОМАШНИЕ ЗАДАНИЕ\проект\англ\englisWords\EnglishWords\angl 2\old eng\Engl\Engl\obj\Debug\Engl.csproj.CopyComplete

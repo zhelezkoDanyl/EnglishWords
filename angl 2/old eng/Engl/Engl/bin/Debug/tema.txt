@@ -3,3 +3,4 @@ Travel
 Sport
 Shopping
 Legal
+medicine

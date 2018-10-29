@@ -129,8 +129,13 @@ namespace Engl.Operation
 
         private void ADD_update(object sender, EventArgs e)
         {     
-            if (ADD.data.SelectedItem != null)
+            if (ADD.id.Text == "" || ADD.id.Text == null)
             {
+                MessageBox.Show("не выбран Item для изменений");
+            }
+            else
+            {
+
                 MessageBoxResult result = MessageBox.Show("Вы ходите сохранить изменение ?", "Update", MessageBoxButton.YesNo);
                 if (result == MessageBoxResult.Yes)
                 {
@@ -139,42 +144,42 @@ namespace Engl.Operation
 
 
 
-                // изминения на прямую произойдут без проверки
-                             //var emp =  ADD.data.SelectedItem as Word
-                            var emp = new Word();
+                        // изминения на прямую произойдут без проверки
+                        //var emp =  ADD.data.SelectedItem as Word
+                        var emp = new Word();
 
-                             emp.EN = ADD.En.Text;
-                             emp.Ru = ADD.Ru.Text;
-                             emp.SynonymsEn = ADD.EnSinon.Text;
-                             emp.SynonymsRu = ADD.RuSinon.Text;
-                             emp.PastSimiple = ADD.Form2.Text;
-                             emp.PastPart = ADD.form3.Text;
-                             emp.Tema = ViewModel.TopicStringMethod(ADD.topic);
-                             emp.NumberPart = ADD.PartOfSpeechCOM.SelectedIndex;
-                             emp.NumberKind = ADD.PodPunk.SelectedIndex;
-                            
-                             ViewModel vm = new ViewModel();
-                             string strtext;
-                                     if (vm.ProverkaVolidate(emp, out strtext, 1))
-                                     {
-                                       var empTest = ADD.data.SelectedItem as Word;
-                                              empTest.EN = ADD.En.Text;
-                                              empTest.Ru = ADD.Ru.Text;
-                                              empTest.SynonymsEn = ADD.EnSinon.Text;
-                                              empTest.SynonymsRu = ADD.RuSinon.Text;
-                                              empTest.PastSimiple = ADD.Form2.Text;
-                                              empTest.PastPart = ADD.form3.Text;
-                                              empTest.Tema = ViewModel.TopicStringMethod(ADD.topic);
-                                              empTest.NumberPart = ADD.PartOfSpeechCOM.SelectedIndex;
-                                              empTest.NumberKind = ADD.PodPunk.SelectedIndex;
-                                        //DataBaseWithMethod.UpDate();
-                                     }
-                                     else
-                                     {
-                                 
-                                      MessageBox.Show(strtext);
-                                      
-                                     }
+                        emp.EN = ADD.En.Text;
+                        emp.Ru = ADD.Ru.Text;
+                        emp.SynonymsEn = ADD.EnSinon.Text;
+                        emp.SynonymsRu = ADD.RuSinon.Text;
+                        emp.PastSimiple = ADD.Form2.Text;
+                        emp.PastPart = ADD.form3.Text;
+                        emp.Tema = ViewModel.TopicStringMethod(ADD.topic);
+                        emp.NumberPart = ADD.PartOfSpeechCOM.SelectedIndex;
+                        emp.NumberKind = ADD.PodPunk.SelectedIndex;
+
+                        ViewModel vm = new ViewModel();
+                        string strtext;
+                        if (vm.ProverkaVolidate(emp, out strtext, 1))
+                        {
+                            var empTest = ADD.data.SelectedItem as Word;
+                            empTest.EN = ADD.En.Text;
+                            empTest.Ru = ADD.Ru.Text;
+                            empTest.SynonymsEn = ADD.EnSinon.Text;
+                            empTest.SynonymsRu = ADD.RuSinon.Text;
+                            empTest.PastSimiple = ADD.Form2.Text;
+                            empTest.PastPart = ADD.form3.Text;
+                            empTest.Tema = ViewModel.TopicStringMethod(ADD.topic);
+                            empTest.NumberPart = ADD.PartOfSpeechCOM.SelectedIndex;
+                            empTest.NumberKind = ADD.PodPunk.SelectedIndex;
+                            //DataBaseWithMethod.UpDate();
+                        }
+                        else
+                        {
+
+                            MessageBox.Show(strtext);
+
+                        }
                     }
                     catch (Exception ex)
                     {
@@ -187,10 +192,7 @@ namespace Engl.Operation
                     //DataBaseWithMethod.Cancel();
                 }
                 ADD.data.ItemsSource = CreateClassWords.MyWords.wordList.ToList();
-            }
-            else
-            {
-                MessageBox.Show("не выбран Item для изменений");
+              
             }
        
          
