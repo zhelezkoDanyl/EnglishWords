@@ -162,7 +162,8 @@ namespace Engl.Operation
                         string strtext;
                         if (vm.ProverkaVolidate(emp, out strtext, 1))
                         {
-                            var empTest = ADD.data.SelectedItem as Word;
+                            //var empTest = ADD.data.SelectedItem as Word;
+                            var empTest = CreateClassWords.MyWords.wordList.Where(x => x.id.ToString() == ADD.id.Text).FirstOrDefault();
                             empTest.EN = ADD.En.Text;
                             empTest.Ru = ADD.Ru.Text;
                             empTest.SynonymsEn = ADD.EnSinon.Text;
